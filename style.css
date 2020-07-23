@@ -1,0 +1,86 @@
+.my-button{
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border: none;
+    border-radius: 33px;
+    color: white;
+    }
+.nav-item{
+    margin: 0px 15px;
+}
+.navbar{
+    background-color:transparent !important;
+    border-color:transparent;
+    background-image:none;
+    box-shadow:none;
+}
+.top-section{
+    width: 100%;
+    max-height: 600px;
+    background: #F0FFF0;
+    padding: 10px 70px;
+}
+#learn{
+    color: #FD511A;   
+}
+.schedule{
+    color: #21B573;
+}
+.header{
+    padding: 20px;
+}
+second-part{
+    display: flex;
+    margin-left: -20px;
+    
+}
+.col-md-2{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    text-align: center;
+    padding-top: 40px;
+   
+}
+.col-md-2 img{
+    width: 30%;
+}
+.book, .test, .student{
+    background-color: #F8FFFB;
+}
+.students{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px; 
+}
+.card{
+    padding-top: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 18px;
+}
+.card-footer{
+  background: none;  
+  border: none;  
+}
+.card-footer img{
+    width: 10%;
+}
+.starts{
+    margin-left: -20px;
+}
+.seats{
+    margin-right: -80px;
+}
+.man img{
+    margin-left: 120px;
+}
+.lower-section{
+    color: white;
+    background-color: #282531;
+    margin-top: 50px;
+}
+ul{
+    list-style: none;
+}
